@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>rest_WMR_architektura</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>test moich obiektow</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>aqLtest1App</label>
+    <navType>Standard</navType>
+    <tabs>aqvtab_chopy</tabs>
+    <tabs>aq_obj__c</tabs>
+    <tabs>aq_APP_quick_label__c</tabs>
+    <tabs>aq_custom_objecte__c</tabs>
+    <tabs>aq_tab_jaj</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>aqLtest1App_UtilityBar</utilityBar>
+</CustomApplication>

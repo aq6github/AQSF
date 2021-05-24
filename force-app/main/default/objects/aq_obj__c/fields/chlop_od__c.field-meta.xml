@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>chlop_od__c</fullName>
+    <description>od kiedy jestes chlop z jajami?</description>
+    <externalId>false</externalId>
+    <inlineHelpText>od kiedy jestes chlop z jajami?</inlineHelpText>
+    <label>chlop_od</label>
+    <required>false</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

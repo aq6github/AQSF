@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>true</doesSendEmailToMembers>
+    <name>kolejka1user</name>
+    <queueMembers>
+        <users>
+            <user>aq6foto@o2.pl</user>
+            <user>integration@00d1i000000gbzxeaq.com</user>
+            <user>andyqqq@10g.pl</user>
+            <user>insightssecurity@00d1i000000gbzxeaq.com</user>
+            <user>andy567@10g.pl</user>
+            <user>andy567xxx@10g.pl</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>QuickText</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>WorkFeedback</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>WorkFeedbackQuestion</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>WorkFeedbackQuestionSet</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>WorkFeedbackRequest</sobjectType>
+    </queueSobject>
+</Queue>

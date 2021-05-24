@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#255075</headerColor>
+        <logo>IMG_20190712_204534</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>jakies jaja dla testow</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>AQLApptest2</label>
+    <navType>Standard</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>aq_custom_objecte__c</tabs>
+    <tabs>aq_tab_jaj</tabs>
+    <tabs>aqvtab_chopy</tabs>
+    <tabs>standard-Asset</tabs>
+    <tabs>aq_APP_quick_label__c</tabs>
+    <tabs>aq_obj__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>AQLApptest2_UtilityBar</utilityBar>
+</CustomApplication>
